@@ -1,7 +1,4 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Hi!%20I'm%20KyeongBin&fontAlign=50&theme=dark&fontAlignY=50&fontSize=90&">
-</div>
-
+<h1 align="center">Hi! I'm KyeongBin</h1>
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
