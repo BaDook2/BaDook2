@@ -29,11 +29,11 @@
 </div>
 
 <br>
-
-<div>
+<br>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BaDook2&show_icons=true&theme=dark&bg_color=000"/>  
 </div>
-
+<br>
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
