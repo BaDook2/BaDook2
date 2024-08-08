@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Jang Kyeong Bin&fontAlign=70&theme=dark">
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Hi!%20I'm%20KyeongBin&fontAlign=50&theme=dark&fontAlignY=50&fontSize=90&">
 </div>
 
 <br>
@@ -24,21 +24,21 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
 <br>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BaDook2&show_icons=true&theme=dark&bg_color=000"/>  
 </div>
+
 <br>
 <br>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaDook2&layout=compact&theme=dark">
 </div>
 
 
