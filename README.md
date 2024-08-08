@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jang Kyeong Bin&fontAlign=70&theme=dark">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Jang Kyeong Bin&fontAlign=70&theme=dark">
 </div>
+
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
